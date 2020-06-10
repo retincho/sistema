@@ -62,6 +62,7 @@
 $('#entrarSistema').click(function(){
 
 	vacios= validarFormVacio('frmLogin');
+	
 	if(vacios > 0){
 		alert("Debe llenar todos los campos");
 		return false;

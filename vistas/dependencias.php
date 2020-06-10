@@ -12,4 +12,5 @@
 <script src="../librerias/alertifyjs/alertify.js"></script>
 <script src="../librerias/bootstrap/js/bootstrap.min.js"></script>
 <script src="../librerias/select2/js/select2.js"></script>
-<script  src="librerias/fontawesome/js/all.js"></script> <!--load all styles -->
+<script src="../librerias/fontawesome/js/all.js"></script> <!--load all styles -->
+<script src="../js/funciones.js"></script>
